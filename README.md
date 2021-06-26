@@ -1,4 +1,5 @@
-### Olá, meu nome é Guilherme N. Pereira 👋
+### Oi, aqui é o gUi 👋
+Bem-vindo ao meu GitHub! :D
 
 <!--
 **guinpereira/guinpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
