@@ -7,7 +7,7 @@ name: Jobs to update datas
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: guinpereira
 
       # Snake Animation
       - uses: Platane/snk@master
