@@ -2,9 +2,9 @@
 Welcome to my GitHub! :D
 
 - 🔭 I’m currently working as a Intern in Software Development
-- 🌱 I’m currently learning to work with C++, Java and C# languages.
-- 🤔 I'm very curious so, recently, to learn more about different languages ​​
-- I entered the world of developing some games. This unites a love that I always had and ends up helping me at work.
+- 🌱 I’m learning to work with C++, Java and C# languages.
+- 🤔 I'm very curious so, recently, as a way to learn more about programming I entered in the world of developing some games.
+- This unites a love that I always had and ends up helping me at work.
 <!--
 **guinpereira/guinpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
