@@ -1,10 +1,11 @@
 ### Hello, my name is Guilherme 👋
 Welcome to my GitHub! :D
 
-- 🔭 I’m currently working as a Intern in Software Development
-- 🌱 I’m learning to work with C++, Java and C# languages.
+- 🔭 I’m a Student of Information Systems and Software Enginneer.
+- 🌱 I’m learning to work with C++, Java and C# languages. Already worked with C, Dart, Typescript, Python and JavaScript.
 - 🤔 I'm very curious so, recently, as a way to learn more about programming I entered in the world of developing some games.
 - This unites a love that I always had and ends up helping me at work.
+- Here you find my linkedin: https://www.linkedin.com/in/guinpereira/
 <!--
 **guinpereira/guinpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
