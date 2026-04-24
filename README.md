@@ -22,8 +22,9 @@ I am a Software Developer with a strong focus on high-performance systems and ha
 ---
 
 ### 🌐 Connect with me:
-[![Linkedin Badge](https://shields.io)](https://www.linkedin.com/in/guinpereira/)
-[![Email Badge](https://shields.io)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:seu-email@gmail.com)
+
 
 ---
 
