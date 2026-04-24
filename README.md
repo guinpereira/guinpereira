@@ -22,8 +22,8 @@ I am a Software Developer with a strong focus on high-performance systems and ha
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:seu-email@gmail.com)
+<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
+<a href="mailto:seu-email@gmail.com"><img src="https://shields.io" target="_blank"></a>
 
 
 ---
