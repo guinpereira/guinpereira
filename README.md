@@ -22,9 +22,9 @@ I am a Software Developer with a strong focus on high-performance systems and ha
 ---
 
 ### 🌐 Connect with me:
-<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
-<a href="mailto:seu-email@gmail.com"><img src="https://shields.io" target="_blank"></a>
-
+- **LinkedIn:** [linkedin.com/in/guinpereira](https://www.linkedin.com/in/guinpereira/)
+- **Academic Email:** [guinpereira@usp.br](mailto:guinpereira@usp.br)
+- **Personal Email:** [gnp_hc@hotmail.com](mailto:gnp_hc@hotmail.com)
 
 ---
 
