@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guinpereira/guinpereira/main/assets/neural-audio.svg" alt="Animated systems, audio and digital preservation interface" width="100%" />
+</p>
+
 # Hi, I'm Guilherme Nogueira 👋
 
 ### Software Developer building at the intersection of systems, hardware, audio and culture.
@@ -65,8 +69,11 @@ It combines software engineering, music technology and cultural preservation thr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guinpereira&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=8B0000&icon_color=8B0000" alt="Guilherme's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinpereira&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=8B0000" alt="Top languages" />
+<p>
+  <img src="https://img.shields.io/github/commit-activity/y/guinpereira/guinpereira?style=for-the-badge&label=commits%20this%20year&color=8b0000" alt="Commits this year" />
+  <img src="https://img.shields.io/github/last-commit/guinpereira/guinpereira?style=for-the-badge&label=last%20profile%20update&color=a600b8" alt="Last profile update" />
+  <img src="https://img.shields.io/github/languages/top/guinpereira/guinpereira?style=for-the-badge&label=top%20language&color=12d98b" alt="Top language" />
+</p>
 
 <br />
 
