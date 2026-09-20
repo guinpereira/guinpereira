@@ -70,9 +70,8 @@ It combines software engineering, music technology and cultural preservation thr
 <div align="center">
 
 <p>
-  <img src="https://img.shields.io/github/commit-activity/y/guinpereira/guinpereira?style=for-the-badge&label=commits%20this%20year&color=8b0000" alt="Commits this year" />
+  <img src="https://img.shields.io/github/commit-activity/y/guinpereira/guinpereira?style=for-the-badge&label=commits&color=8b0000" alt="Commits" />
   <img src="https://img.shields.io/github/last-commit/guinpereira/guinpereira?style=for-the-badge&label=last%20profile%20update&color=a600b8" alt="Last profile update" />
-  <img src="https://img.shields.io/github/languages/top/guinpereira/guinpereira?style=for-the-badge&label=top%20language&color=12d98b" alt="Top language" />
 </p>
 
 <br />
